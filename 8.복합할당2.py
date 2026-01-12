@@ -6,3 +6,4 @@ m = "오늘"
 print(m) # 오늘은 파이썬이다!
 m += "은 파이썬이다!"
 print(m)
+print(m)
